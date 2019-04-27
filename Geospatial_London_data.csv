@@ -1,0 +1,85 @@
+,PostCode District,latitude,longitude,PostTown,Neighborhood,Local Authority Area
+0,EC1A,51.52111839070006,-0.10554610855217936,LONDON,St Bartholomew's Hospital,"City of London, Islington"
+1,EC1M,51.521406405286754,-0.10243514178003182,LONDON,"Clerkenwell, Farringdon","Islington, Camden, City of London"
+2,EC1N,51.52002747988098,-0.10892992940403393,LONDON,Hatton Garden,"Camden, City of London"
+3,EC1P,51.52450206811158,-0.11208795039917477,LONDON,,non-geographic
+4,EC1R,51.524967466438135,-0.10843266576218706,LONDON,"Finsbury, Finsbury Estate (west)","Islington, Camden"
+5,EC1V,51.52669508996704,-0.09812052802504082,LONDON,"Finsbury (east), Moorfields Eye Hospital","Islington, Hackney"
+6,EC1Y,51.52302302084539,-0.0924833869872451,LONDON,"St Luke's, Bunhill Fields","Islington, City of London"
+7,EC2A,51.523716443082975,-0.08693663611037532,LONDON,Shoreditch,"Islington, Hackney, City of London"
+8,EC2M,51.51891088346704,-0.08770306469295087,LONDON,"Broadgate, Liverpool Street",Tower Hamlets
+9,EC2N,51.51602309754248,-0.08654934991823925,LONDON,"Old Broad Street, Tower 42",City of London
+10,EC2P,51.5242711600255,-0.11135855617860906,LONDON,,non-geographic
+11,EC2R,51.51635318635969,-0.0916826366445063,LONDON,Bank of England,City of London
+12,EC2V,51.515717037110456,-0.0941584864726459,LONDON,Guildhall,City of London
+13,EC2Y,51.51952225855731,-0.09389199657918053,LONDON,Barbican,City of London
+14,EC3A,51.51473915682585,-0.08019270600582352,LONDON,"St Mary Axe, Aldgate",City of London
+15,EC3M,51.5122608282321,-0.08303877564367033,LONDON,"Lloyd's of London, Fenchurch Street",City of London
+16,EC3N,51.51247671216767,-0.07847404485045992,LONDON,"Tower Hill, Tower of London","Tower Hamlets, City of London"
+17,EC3P,51.52404765803703,-0.1106898509893493,LONDON,,non-geographic
+18,EC3R,51.511102398592854,-0.08481756035086575,LONDON,"Monument, Billingsgate",City of London
+19,EC3V,51.51335940017995,-0.0867552317176077,LONDON,"Cornhill, Gracechurch Street, Lombard Street",City of London
+20,EC4A,51.515998993795776,-0.10843658543656153,LONDON,Fetter Lane,"City of London, Westminster"
+21,EC4M,51.5142972902439,-0.09944883463679907,LONDON,St Paul's,City of London
+22,EC4N,51.51283233778185,-0.09137308637658147,LONDON,Mansion House,City of London
+23,EC4P,51.52378920443044,-0.11144812562654693,LONDON,,non-geographic
+24,EC4R,51.51101290559807,-0.0907386039458374,LONDON,Cannon Street,City of London
+25,EC4V,51.512531426439004,-0.09998996920122127,LONDON,Blackfriars,City of London
+26,EC4Y,51.51319012924107,-0.10883971181414509,LONDON,Temple,"City of London, Westminster"
+27,NW10,51.541286779586656,-0.2479995740007216,LONDON,"Willesden district: Willesden, Harlesden, Kensal Green, Brent Park, College Park, Stonebridge, North Acton (part), West Twyford, Neasden (south), Old Oak Common, Park Royal (north)","Brent, Ealing, Hammersmith and Fulham, Kensington and Chelsea"
+28,NW11,51.5784173942492,-0.19748687037899967,LONDON,"Golders Green district: Golders Green, Temple Fortune, Hampstead Garden Suburb (west), Hendon (part), Brent Cross (part)",Barnet
+29,NW1W,51.53078395037766,-0.1354284716983106,LONDON,PO boxes in NW1[4],non-geographic
+30,NW26,51.53405999742127,-0.24813825497872313,LONDON,PO boxes in NW10[4],non-geographic
+31,SE10,51.48365182350471,-0.0005309532638362064,LONDON,"Greenwich district: Greenwich, Maze Hill, Greenwich Peninsula","Greenwich, Lewisham"
+32,SE11,51.48979040760171,-0.11108442567002116,LONDON,"Kennington district: Kennington, Lambeth (part), Vauxhall (part), Oval (part)","Lambeth, Southwark"
+33,SE12,51.4447517746414,0.02057401673604995,LONDON,"Lee district: Lee, Mottingham, Grove Park, Chinbrook, Hither Green (part), Eltham (part), Horn Park, Blackheath (part)","Greenwich, Lewisham, Bromley"
+34,SE13,51.459440018574014,-0.009597884794689492,LONDON,"Lewisham district: Lewisham, Hither Green, Ladywell","Greenwich, Lewisham"
+35,SE14,51.47575519189301,-0.04263097484231125,LONDON,New Cross district: New Cross,Lewisham
+36,SE15,51.47270073827961,-0.06568665312784347,LONDON,"Peckham district: Peckham, Nunhead, South Bermondsey (part), Old Kent Road (part)","Lewisham, Southwark"
+37,SE16,51.496598117260156,-0.05320841995772118,LONDON,"Rotherhithe district: Rotherhithe (part), Surrey Quays, South Bermondsey (part)","Lewisham, Southwark"
+38,SE17,51.48817505809764,-0.09337917120030727,LONDON,"Walworth district: Walworth, Kennington (part), Newington",Southwark
+39,SE18,51.48432796801268,0.07281386960079986,LONDON,"Woolwich district: Woolwich, Royal Arsenal, Plumstead, Shooter's Hill","Bexley, Greenwich"
+40,SE19,51.41799675692936,-0.0861039956671695,LONDON,"Norwood district: Upper Norwood, Crystal Palace","Bromley, Croydon, Lambeth, Lewisham, Southwark"
+41,SE1P,55.43398771572606,-0.07364044750007175,LONDON,,non-geographic
+42,SE20,51.41229930269014,-0.05936375692515668,LONDON,"Anerley district: Anerley, Crystal Palace (part), Penge, Beckenham (part)",Bromley
+43,SE21,51.43899786322913,-0.08875628551611785,LONDON,"Dulwich district: Dulwich, Dulwich Village, West Dulwich, Tulse Hill (part)","Lambeth, Southwark"
+44,SE22,51.454442691120875,-0.07241413326867686,LONDON,"East Dulwich district: East Dulwich, Dulwich Village (part), Peckham Rye, Loughborough Junction, Herne Hill",Southwark
+45,SE23,51.44135511358884,-0.04923232603098233,LONDON,"Forest Hill district: Forest Hill, Honor Oak, Crofton Park (part)","Lewisham, Southwark"
+46,SE24,51.456661539517924,-0.10015384564349332,LONDON,"Herne Hill district: Herne Hill, Tulse Hill (part), Dulwich (part)","Lambeth, Southwark"
+47,SE25,51.3978617129763,-0.07690195812734578,LONDON,"South Norwood district: South Norwood, Selhurst (part), Thornton Heath (part), Woodside (part)",Croydon
+48,SE26,51.42804770184008,-0.05487707874288119,LONDON,"Sydenham district: Sydenham, Crystal Palace (part)","Bromley, Lewisham, Southwark"
+49,SE27,51.43054091533534,-0.1022786412955615,LONDON,"West Norwood district: West Norwood, Gipsy Hill (part)",Lambeth
+50,SE28,51.50232884866786,0.10455528910879931,LONDON,Thamesmead district: Thamesmead,"Bexley, Greenwich"
+51,SW10,51.48386469773971,-0.182809483736986,LONDON,"West Brompton district: West Brompton, Chelsea (part)","Kensington and Chelsea, Hammersmith and Fulham"
+52,SW11,51.46796799089968,-0.16402086761322418,LONDON,"Battersea head district: Battersea, Clapham South","Wandsworth, Lambeth"
+53,SW12,51.446304557241525,-0.14919336831384286,LONDON,"Balham district: Balham, Clapham South, Wandsworth Common (part)","Wandsworth, Lambeth"
+54,SW13,51.47630900043448,-0.2434053514991675,LONDON,Barnes district: Barnes,Richmond upon Thames
+55,SW14,51.46537479812083,-0.26698998873350965,LONDON,"Mortlake district: Mortlake, East Sheen",Richmond upon Thames
+56,SW15,51.4570823433843,-0.22837561045324126,LONDON,"Putney district: Putney, Roehampton, Kingston Vale, Putney Heath, Putney Vale, Richmond Park, Roehampton Vale","Wandsworth, Kingston upon Thames, Richmond upon Thames"
+57,SW16,51.42137005396393,-0.12925349768484987,LONDON,"Streatham district: Streatham, Streatham Common, Norbury, Streatham Park, Furzedown, Streatham Vale, Mitcham Common, Pollards Hill, Eastfields","Lambeth, Croydon, Wandsworth, Merton"
+58,SW17,51.430736689004554,-0.16464375441968898,LONDON,"Tooting district: Tooting, Mitcham (part)","Wandsworth, Merton"
+59,SW18,51.45117083476112,-0.19143874651559878,LONDON,"Wandsworth district: Wandsworth Town, Southfields, Earlsfield",Wandsworth
+60,SW19,51.42392413545456,-0.20341626536035595,LONDON,"Wimbledon district: Wimbledon, Colliers Wood, Merton Park, Merton Abbey, Southfields, Morden (part)","Merton, Wandsworth"
+61,SW1A,51.50427722687635,-0.1323017273469539,LONDON,Whitehall and Buckingham Palace,Westminster
+62,SW1E,51.49754513156992,-0.13963558056961525,LONDON,between Buckingham Gate and Victoria Station,Westminster
+63,SW1H,51.49794011718022,-0.13378730437166128,LONDON,east of Buckingham Gate,Westminster
+64,SW1P,51.48757549818695,-0.13404314732004147,LONDON,"triangular area between Victoria Station, the Houses of Parliament, and Vauxhall Bridge",Westminster
+65,SW1V,51.48942301477793,-0.13994902100690332,LONDON,"triangular area between Vauxhall Bridge, Chelsea Bridge, and Victoria Station; Pimlico proper",Westminster
+66,SW1W,51.49249958310414,-0.15073217920951354,LONDON,"Belgravia, Chelsea (part), area between Sloane Square and Victoria Station, south of Kings Road","Westminster, Kensington and Chelsea"
+67,SW1X,51.49807296547941,-0.15646188006037973,LONDON,"Belgravia, north of Eaton Square, Knightsbridge (part), Chelsea (part)","Westminster, Kensington and Chelsea"
+68,SW1Y,51.50734635918899,-0.13459858798499405,LONDON,St James's,Westminster
+69,SW20,51.41129184455651,-0.2267612415745149,LONDON,"West Wimbledon district: Raynes Park, Lower Morden, Merton Park, Wimbledon Chase",Merton
+70,WC1A,51.52056499764814,-0.11959514135256412,LONDON,New Oxford Street,Camden
+71,WC1B,51.51951842375226,-0.12581160981482434,LONDON,"Bloomsbury, British Museum, Southampton Row",Camden
+72,WC1E,51.52175023045769,-0.13245733600609394,LONDON,"University College London, SOAS",Camden
+73,WC1H,51.52687078055178,-0.12538253380050665,LONDON,"St Pancras, UCL Institute of Education",Camden
+74,WC1N,51.52294396039552,-0.11963642559644129,LONDON,"Russell Square, Great Ormond Street",Camden
+75,WC1R,51.51973774884965,-0.11574665704816237,LONDON,Gray's Inn,Camden
+76,WC1V,51.5182431077841,-0.11649777337068094,LONDON,High Holborn,"Camden, City of London"
+77,WC1X,51.526632277950505,-0.11510290819084522,LONDON,"Kings Cross, Finsbury (west), Clerkenwell (north)","Camden, Islington"
+78,WC2A,51.51641122601053,-0.11413807229431479,LONDON,"Lincoln's Inn Fields, Royal Courts of Justice, Chancery Lane","Camden, Westminster, City of London"
+79,WC2B,51.51529207716417,-0.12011309132822794,LONDON,"Drury Lane, Kingsway, Aldwych","Camden, Westminster"
+80,WC2E,51.51207954263617,-0.12315229179908026,LONDON,Covent Garden,Westminster
+81,WC2H,51.513515581900485,-0.1271482871480135,LONDON,"Leicester Square, St. Giles","Camden, Westminster"
+82,WC2N,51.50950082129876,-0.12457400132933331,LONDON,Charing Cross,Westminster
+83,WC2R,51.51243984787281,-0.11799093918864968,LONDON,"Somerset House, Temple (west)",Westminster
